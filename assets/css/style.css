@@ -1,0 +1,52 @@
+button {
+    padding: 3px ;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(0, 2, 0);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 3px #999;
+  }
+  
+  .button:hover {background-color: #8e3e83}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 3px #666;
+    transform: translateY(4px);
+  }
+
+#add-movie {
+    padding: 3px ;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(10, 0, 2);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 3px #999;
+}
+
+body {
+    background-color: black;    
+
+
+}
+
+h1, h3 {
+    text-align: center;
+
+}
+
+.card {
+    align-content: center;
+}
+
+.gif-display{
+    align-content: center;
+    text-align: center;
+    width: 100%;
+}
